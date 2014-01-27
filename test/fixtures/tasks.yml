@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  Task_Title: MyString
+  Task_Description: MyText
+  Assigned_to: MyString
+  Task_assigned: 2014-01-27
+  Projected_Completion_Date: 2014-01-27
+  Task_on_Schedule: false
+
+two:
+  Task_Title: MyString
+  Task_Description: MyText
+  Assigned_to: MyString
+  Task_assigned: 2014-01-27
+  Projected_Completion_Date: 2014-01-27
+  Task_on_Schedule: false

@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  Company_Name: MyString
+  Project_Start_Date: 2014-01-27
+  Project_Manager: MyString
+  Title: MyString
+  Overview: MyText
+  Status: MyString
+  Live_Project: false
+  Team_Member_List: MyText
+
+two:
+  Company_Name: MyString
+  Project_Start_Date: 2014-01-27
+  Project_Manager: MyString
+  Title: MyString
+  Overview: MyText
+  Status: MyString
+  Live_Project: false
+  Team_Member_List: MyText

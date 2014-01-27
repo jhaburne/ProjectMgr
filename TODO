@@ -1,0 +1,33 @@
+TODO
+
+- Use scaffold to generate a task list page
+  
+- Create a navigation bar
+  - Links to Index page and task list
+
+    - Task_List: text
+    - Task_on_Schedule: boolean
+    - Assigned_to: string
+    - Task_assigned: date
+    - Projected_Completion_Date: date
+    - Task_Title: string
+    - Task_Description: text 
+
+
+
+
+
+      - Use scaffold to generate a task list page
+  
+- Create a navigation bar
+  - Links to Index page and task list
+
+   
+    - Task_on_Schedule: boolean
+    - Assigned_to: string
+    - Task_assigned: date
+    - Projected_Completion_Date: date
+    - Task_Title: string
+    - Task_Description: text     
+
+    
